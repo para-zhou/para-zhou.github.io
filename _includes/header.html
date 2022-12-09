@@ -1,29 +1,19 @@
-<div id = "header">
-    <h1><a href="{{site.url}}">{{site.title}}</a></h1>
-    <div class = "wave">
-    </div>
-
-    <nav role="navigation">
-      <div id = "desktop-nav">
-        <ul id = "desktop-menu">
-          {% for item in site.data.settings.pages  %}
-          <li><a href="{{ item.link | absolute_url}}"> {{ item.name }}</a></li>
-          {% endfor %}
-        </ul>
+<header id="index-header">
+  <div class="top-center">
+      <div class="logo">
+          <a href="{{ "/" | relative_url }}" title="my awesome webtitle">{{ site.webtitle }}</a>
       </div>
-      <div id="hammenuToggle">
-          <input type="checkbox" />
-    
-          <span></span>
-          <span></span>
-          <span></span>
-          
-    
-          <ul id = "menu">
-            {% for item in site.data.settings.pages %}
-            <li><a href="{{ item.link | absolute_url}}">  {{ item.name }}</a></li>
-            {% endfor %}
+      <nav class="top-nav">
+          <ul>
+              {% for i in site.nav %}
+                <li><a href="{{ i[1] }}">{{ i[0] }}</a></li>
+              {% endfor %}
           </ul>
-        </div>
-    </nav>
-</div>
+      </nav>
+      <div id="top-boot">
+        <a href="javascript:;" id="boot1" style="display:block;" onclick="document.getElementById('boot-area').style.display='block';document.getElementById('boot1').style.display='none';document.getElementById('boot2').style.display='block';"><img src="/assets/boot.png" alt=""></a>
+        <a href="javascript:;" id="boot2" style="display: none;" onclick="document.getElementById('boot-area').style.display='none';document.getElementById('boot1').style.display='block';document.getElementById('boot2').style.display='none';"><img src="/assets/boot.png" alt=""></a>
+      </div>
+  </div>
+
+</header>

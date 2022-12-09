@@ -1,19 +1,18 @@
 ---
-layout: home
-title: Jingyan Zhou's Personal Webpage
+layout: default
+title: your awesome title
+page-title: your awesome page-title.
+home-title: your awesome home-title.
+description: description
 ---
 
-
-
-#### :monocle_face: About Me
-
-
-
-#### News
-
-- :airplane: Attending EMNLP2022@Abu Dahbi, presenting our work offensive Language detection and dialogue social bias identification, find us @ poster session 11!
-- :ship: closely collaborating with Noah's Ark Lab on dialogue safety issues, stay tuned!
-- :partying_face: two papers on AI ethics accepted by EMNLP 2022! 
-
-
-
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+{% include footer.html %}

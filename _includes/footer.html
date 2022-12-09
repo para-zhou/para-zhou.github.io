@@ -1,5 +1,12 @@
-<footer>
-    <p>
-        Copyright <a href="{{ site.author.url }}">{{ site.author.name }}</a>. All Right Reserved. <!-- DO NOT DELETE -->Theme designed by <a href="https://alessiofranceschi.me/">Alessio Franceschi</a>.
-    </p>
+<footer id="bottom">
+  <br>
+  <span>{{ site.title }} ©
+  {% assign current = "now" | date: "%Y" | plus: 0%}
+  {% unless site.footer.since and site.footer.since == current %}
+    {{ site.footer.since }}
+    -
+  {% endunless %}
+  {{ current }}
+  <br>
+  Powered by <a href="https://www.jekyll.com.cn/">Jekyll</a> | <a href="https://github.com/xukimseven/HardCandy-Jekyll">HardCandy-Jekyll</a></span>
 </footer>
