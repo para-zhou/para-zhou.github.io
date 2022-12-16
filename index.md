@@ -30,7 +30,7 @@ pre {
 > 
 > :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011)
 >
-> :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu and other nice colleagues in HCCL!
+> :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu, and other nice colleagues in HCCL!
 >
 > :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
 >
