@@ -67,11 +67,11 @@ pre {
   (All equal contribution) Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, Lun Yiu Nie, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, **Jingyan Zhou**, Hong Cheng, Wai Lam, Helen Meng
   [[code](https://github.com/muditchaudhary/CUHK-DSTC9)]
 
-* Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model](https://ieeexplore.ieee.org/abstract/document/9362051)![](https://img.shields.io/badge/ISCSLP_2021-blue) 
+* [Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model](https://ieeexplore.ieee.org/abstract/document/9362051)![](https://img.shields.io/badge/ISCSLP_2021-blue) 
   
   **Jingyan Zhou**, Xiaoying Zhang, Xiaohan Feng, King Keung Wu, Helen Meng 
 
-* Convex Polytope Modelling for Unsupervised Derivation of Semantic Structure for Data-efficient Natural Language Understanding](https://arxiv.org/pdf/2201.10588) ![](https://img.shields.io/badge/arxiv-red) 
+* [Convex Polytope Modelling for Unsupervised Derivation of Semantic Structure for Data-efficient Natural Language Understanding](https://arxiv.org/pdf/2201.10588) ![](https://img.shields.io/badge/arxiv-red) 
 
   **Jingyan Zhou**, Xiaohan Feng, King Keung Wu, Helen Meng
 
