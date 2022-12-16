@@ -48,7 +48,7 @@ pre {
 
 * [**COLD**: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) ![](https://img.shields.io/badge/EMNLP_2022-blue) 
 
-  Jiawen Deng\*, **Jingyan ZHOU**\*, Hao Sun, Chujie Zheng, Fei Mi, Helen Meng and Minlie Huang
+  Jiawen Deng\*, **Jingyan Zhou**\*, Hao Sun, Chujie Zheng, Fei Mi, Helen Meng and Minlie Huang
   [[data](https://github.com/thu-coai/COLDataset)]
 
 * [**PanGu-BOT**: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090) ![](https://img.shields.io/badge/arxiv-red) 
