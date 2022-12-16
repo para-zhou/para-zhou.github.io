@@ -20,7 +20,7 @@ Turing (cat version) is a black and white cat, specilizes at all the kinds of ba
 * * *
 
 # Pi-pi Pythagoras
-Pytagoras (cat version) is a Chinese Li Hua cat, specilizes at recreating beautiful textures on fabric furnitures. His research interest is animal relations, i.e., how to protect one's own food from Turing. Also, he is obsessed with [_BBC Blue Planet_](https://www.bbcearth.com/shows/blue-planet).
+Pythagoras (cat version) is a Chinese Li Hua cat, specilizes at recreating beautiful textures on fabric furnitures. His research interest is animal relations, i.e., how to protect one's own food from Turing. Also, he is obsessed with [_BBC Blue Planet_](https://www.bbcearth.com/shows/blue-planet).
 
 
 :e-mail: pi-pi [at] cat-lives-matter [dot] com
