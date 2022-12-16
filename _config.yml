@@ -1,90 +1,36 @@
-# Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: Jingyan ZHOU
+logo: /assets/img/logo.png
+email: jyzhou@se.cuhk.edu.hk
+description: 周婧妍
+show_downloads: false
+google_analytics: UA-108144808-1
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+remote_theme: BDHU/minimalist
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: Google Scholar
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+    link: https://scholar.google.com/citations?user=5U2DBhUAAAAJ&hl=en
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/para-zhou
+  - name: living with my cats
+    icon: <i class="fa-solid hand-peace"></i><i class="fa-solid fa-cat"></i>
+    link: /cat
+  - name: Mainpage
+    icon: <i class="fa-solid fa-pen"></i>
+    link: /index
+#  - name: Project Repository
+#    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15h9.286zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1zM.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8H.8z"/></g></svg>
+#    link: https://github.com/BDHU/minimalist
 
-# nav 中文字符空格：&emsp;
-nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  首页: '/'
-  标签: '/tags.html'
-  时间线: '/timeline.html'
-  关于博主: '/about.html'
-  友情链接: '/friendLink.html'
-
-# 博主
-author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
-about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
-
-# SNS
-SNS: true
-SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
-
-# 分页
-paginate: 2
-paginatepath: ['page:num']
-
-# since
-footer:
-  since: 2018
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-# 代码高亮 使用rouge
-highlighter: rouge
-# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
-pygmentsTheme: 'default'
-
-# 友情链接
-friends:
-  jekyll: 'https://www.jekyll.com.cn/'
-
-# 评论 最佳体验 在disqus、livere和Gitment之间三选一
-# disqus 评论
-disqus: false
-disqus_url: '' # https://abc.disqus.com/embed.js
-# 来必力评论
-livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
-# Gitment评论 OAuth Application
-Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
-
-# Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
-social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
-
-# 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
-baidu-url: ''
-# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
-google: false
-google-ID: ''
-
-# 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
-color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
