@@ -32,129 +32,59 @@ pre {
 >
 > :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu and other nice colleagues in HCCL!
 >
-> :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/; [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
+> :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
 >
-> :robot: Mar 2022: Amazing Chinese chatbot [**PanGu-Bot**](https://arxiv.org/abs/2203.17090) is released!
+> :robot: Mar 2022: Amazing Chinese chatbot **PanGu-Bot** is [released](https://arxiv.org/abs/2203.17090)!
 
 
 
 ## :book: Publications
 
-* Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks ![](https://img.shields.io/badge/EMNLP_2022_Findings-blue) 
+### :warning: Dialogue Safety
+* [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011) ![](https://img.shields.io/badge/EMNLP_2022_Findings-blue) 
   
   **Jingyan Zhou**\*, Jiawen Deng\*, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng 
-  [[paper](https://arxiv.org/abs/2202.08011); [homepage](https://github.com/para-zhou/CDial-Bias)]
+  [[data](https://github.com/para-zhou/CDial-Bias)]
 
-* **COLD**: A Benchmark for Chinese Offensive Language Detection ![](https://img.shields.io/badge/EMNLP_2022-blue) 
+* [**COLD**: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) ![](https://img.shields.io/badge/EMNLP_2022-blue) 
 
   Jiawen Deng\*, **Jingyan ZHOU**\*, Hao Sun, Chujie Zheng, Fei Mi, Helen Meng and Minlie Huang
+  [[data](https://github.com/thu-coai/COLDataset)]
+
+* [**PanGu-BOT**: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090) ![](https://img.shields.io/badge/arxiv-red) 
+
+  Fei Mi, Yitong Li, Yulong Zeng, **Jingyan Zhou**, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
+  [[Blog](https://mp.weixin.qq.com/s/VALSLd3ITz97SurJ9IJawg)]
+
+* [Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)![](https://img.shields.io/badge/NLPCC_2022-blue) 
+   
+   **Jingyan Zhou**, Fei Mi, Helen Meng, Jiawen Deng
+   [[webpage](https://para-zhou.github.io/CDial-Bias/)]
+
+### :dart: Task-oriented Dialogue Systems:
+* [Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066) ![](https://img.shields.io/badge/AAAI_2021_DSTC9_workshop-blue) 
+
+  (All equal contribution) Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, Lun Yiu Nie, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, **Jingyan Zhou**, Hong Cheng, Wai Lam, Helen Meng
+  [[code](https://github.com/muditchaudhary/CUHK-DSTC9)]
+
+* Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model](https://ieeexplore.ieee.org/abstract/document/9362051)![](https://img.shields.io/badge/ISCSLP_2021-blue) 
+  
+  **Jingyan Zhou**, Xiaoying Zhang, Xiaohan Feng, King Keung Wu, Helen Meng 
+
+* Convex Polytope Modelling for Unsupervised Derivation of Semantic Structure for Data-efficient Natural Language Understanding](https://arxiv.org/pdf/2201.10588) ![](https://img.shields.io/badge/arxiv-red) 
+
+  **Jingyan Zhou**, Xiaohan Feng, King Keung Wu, Helen Meng
+
+* [The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service](https://aclanthology.org/2020.lrec-1.58/) ![](https://img.shields.io/badge/LREC_2020-blue) 
+
+  Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, **Jingyan Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou
 
 
-## News
+
+
 
 ## Teaching
 
 > 2022-2023, Term 1: co-teach _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL!
 >
 > Every term 2 during 2019-2023: Teaching assistant in _ENGG1130: **Multi-variable Caculus**_
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-##### Header 5
-
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this
-
-* * *
-
-### Here is an unordered list
-
-* Item foo
-* Item bar
-* Item baz
-* Item zip
-
-### And an ordered list
-
-1. Item one
-1. Item two
-1. Item three
-1. Item four
-
-### And a nested list
-
-* level 1 item
-  * level 2 item
-  * level 2 item
-    * level 3 item
-    * level 3 item
-* level 1 item
-  * level 2 item
-  * level 2 item
-  * level 2 item
-* level 1 item
-  * level 2 item
-  * level 2 item
-* level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
