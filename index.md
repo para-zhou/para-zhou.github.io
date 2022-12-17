@@ -11,7 +11,7 @@ Prior to this, I was an intern in the NLP group in [JingDong AI Research Institu
 
 ## :microscope: Research Interest
 
-My research mainly focuses on buidling reliable dialogue systems in terms of safety concerns (biased and offensive languages, ) and knowledge grounding.
+My research mainly focuses on buidling reliable dialogue systems in terms of safety concerns (biased and offensive languages, moral considerations, etc.) and knowledge grounding.
 I am also interested in general ethical issues in NLP applications, e.g., fairness of large language models.
 You are more than welcome to :envelope: me for research discussions!
 
@@ -28,11 +28,11 @@ pre {
 
 > :camel: Dec 2022: Attending off-line EMNLP 2022 @ Abu Dhabi, presenting our work on Chinese Offensive Language Detection.
 > 
-> :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011)
+> :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011).
 >
 > :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu, and other nice colleagues in HCCL!
 >
-> :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
+> :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31).
 >
 > :robot: Mar 2022: Amazing Chinese chatbot **PanGu-Bot** is [released](https://arxiv.org/abs/2203.17090)!
 
