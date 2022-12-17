@@ -30,7 +30,7 @@ Pythagoras (cat version) is a Chinese Li Hua cat, specilizes at recreating beaut
 > 
 > :house_with_garden: Oct, 2021: welcome home!
 
-### Pytagoras in contemplation
+### Pythagoras in contemplation
 
 <img src="assets/img/pipi1.png" alt="drawing" width="250"/> 
 <img src="assets/img/pipi2.png" alt="drawing" width="250"/>
