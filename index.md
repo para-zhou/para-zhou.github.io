@@ -80,8 +80,8 @@ pre {
   Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, **Jingyan Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou
 
 
-## Teaching
+## :teacher: Teaching
 
-> 2022-2023, Term 1: co-teach _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL!
+> 2022-2023, Term 1: co-teaching _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
 >
-> Every term 2 during 2019-2023: Teaching assistant in _ENGG1130: **Multi-variable Caculus**_
+> Every term 2 during 2019-2023: teaching assistant in _ENGG1130: **Multi-variable Calculus**_
