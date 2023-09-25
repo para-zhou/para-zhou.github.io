@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
 in the Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/), started from Aug, 2019. 
-I am also an intern in the Speech and Language Processing group in [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), supervised by Dr. [Fei Mi](https://mifei.github.io/) and Dr. [Yitong Li](https://lrank.github.io/), collaborating with [COAI group](http://coai.cs.tsinghua.edu.cn/) from Tsinghua University on **safety issues in dialogue systems**.
+I was an intern in the Speech and Language Processing group in [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), supervised by Dr. [Fei Mi](https://mifei.github.io/) and Dr. [Yitong Li](https://lrank.github.io/), collaborating with [COAI group](http://coai.cs.tsinghua.edu.cn/) from Tsinghua University on **safety issues in dialogue systems**.
 Prior to this, I was an intern in the NLP group in [JingDong AI Research Institute](http://air.jd.com/) working on task-oriented dialogue systems.
 
 ## :microscope: Research Interest
@@ -25,7 +25,8 @@ pre {
   max-height: 10vh !important;
 }
 </style>
-
+> :thought_balloon: Aug 2023: Releasing a preprint dicussing **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399)
+> 
 > :camel: Dec 2022: Attending off-line EMNLP 2022 @ Abu Dhabi, presenting our work on Chinese Offensive Language Detection.
 > 
 > :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011).
@@ -80,7 +81,7 @@ pre {
   Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, **Jingyan Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou
 
 
-## :teacher: Teaching
+## :book: Teaching
 
 > 2022-2023, Term 1: co-teaching _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
 >
