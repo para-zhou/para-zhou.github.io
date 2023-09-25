@@ -41,7 +41,11 @@ pre {
 
 ## :book: Publications
 
-### :warning: Dialogue Safety
+### :warning: AI Ethics and Dialogue Safety
+* [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) ![](https://img.shields.io/badge/arxiv-red) 
+
+  **Jingyan Zhou**, Minda Hu, Junan Li, Xiaoying Zhang, Xixin Wu, Irwin King, Helen Meng 
+ 
 * [Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks](https://arxiv.org/abs/2202.08011) ![](https://img.shields.io/badge/EMNLP_2022_Findings-blue) 
   
   **Jingyan Zhou**\*, Jiawen Deng\*, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng 
