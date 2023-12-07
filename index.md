@@ -25,6 +25,8 @@ pre {
   max-height: 10vh !important;
 }
 </style>
+> :partying_face: Dec 2023: Excited and Hornored to serve as the organizing chair of [2023 International Docotoral Forum](https://phdforum.se.cuhk.edu.hk/)
+> 
 > :thought_balloon: Aug 2023: Releasing a preprint dicussing **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399)
 > 
 > :camel: Dec 2022: Attending off-line EMNLP 2022 @ Abu Dhabi, presenting our work on Chinese Offensive Language Detection.
