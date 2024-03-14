@@ -24,27 +24,35 @@ pre {
   overflow-y: scroll !important;
   max-height: 10vh !important;
 }
+md-list.make-scrollable {
+    height: 600px; 
+    overflow-y: scroll;
+}
 </style>
-> :beers: Dec 2023: Excited and Hornored to serve as the organizing chair of [2023 International Docotoral Forum](https://phdforum.se.cuhk.edu.hk/)!
+> :thought_balloon: Mar 2024: Our work on **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) accepted by NAACL 2024.
 > 
-> :thought_balloon: Aug 2023: Releasing a preprint dicussing **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399)
+> :blue_book: Feb 2024: Delighted to give talk in City University of Hong Kong on **Generative AI, the Future of Work, and Talent Cultivation**.
+> 
+> :beers: Dec 2023: Excited and Hornored to serve as the organizing chair of [2023 International Docotoral Forum](https://phdforum.se.cuhk.edu.hk/)!
 > 
 > :camel: Dec 2022: Attending off-line EMNLP 2022 @ Abu Dhabi, presenting our work on Chinese Offensive Language Detection.
 > 
 > :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011).
 >
+<!---
 > :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu, and other nice colleagues in HCCL!
 >
 > :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31).
 >
 > :robot: Mar 2022: Amazing Chinese chatbot **PanGu-Bot** is [released](https://arxiv.org/abs/2203.17090)!
+> --->
 
 
 
 ## :book: Publications
 
 ### :warning: AI Ethics and Dialogue Safety
-* [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) ![](https://img.shields.io/badge/arxiv-red) 
+* [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) ![](https://img.shields.io/badge/NAACL_2024_Findings-blue) 
 
   **Jingyan Zhou**, Minda Hu, Junan Li, Xiaoying Zhang, Xixin Wu, Irwin King, Helen Meng 
  
@@ -69,6 +77,10 @@ pre {
    [[webpage](https://para-zhou.github.io/CDial-Bias/)]
 
 ### :dart: Task-oriented Dialogue Systems:
+* [Sgp-tod: Building task bots effortlessly via schema-guided llm prompting](https://aclanthology.org/2023.findings-emnlp.891/)![](https://img.shields.io/badge/EMNLP_2023_Findings-blue) 
+
+  Xiaoying Zhang, Baolin Peng, Kun Li, **Jingyan Zhou**, Helen Meng 
+
 * [Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066) ![](https://img.shields.io/badge/AAAI_2021_DSTC9_workshop-blue) 
 
   (All equal contribution) Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, Lun Yiu Nie, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, **Jingyan Zhou**, Hong Cheng, Wai Lam, Helen Meng
@@ -87,7 +99,8 @@ pre {
   Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, **Jingyan Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou
 
 
-## :book: Teaching
+## :book: Teaching & Talk
+> 2024, Feb: give Talk in City University of Hong Kong of **Generative AI, the Future of Work, and Talent Cultivation**
 
 > 2022-2023, Term 1: co-teaching _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
 >
