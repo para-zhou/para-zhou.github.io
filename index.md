@@ -57,7 +57,7 @@ md-list.make-scrollable {
   
   **Jingyan Zhou**, Kun Li, Junan Li, Jiawen Kang, Minda Hu, Xixin Wu, Helen Meng 
 
-* [*Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/abs/2402.09267) ![](https://img.shields.io/badge/ACL_2024-blue) 
+* [Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/abs/2402.09267) ![](https://img.shields.io/badge/ACL_2024-blue) 
   
   Xiaoying Zhang, Baolin Peng, Ye Tian,  **Jingyan Zhou**, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng 
 
