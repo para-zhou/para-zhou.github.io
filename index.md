@@ -29,7 +29,7 @@ md-list.make-scrollable {
     overflow-y: scroll;
 }
 </style>
-<div class=pre>
+<div>
 > 
 > :thought_balloon: Mar 2024: Our work on **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) accepted by NAACL 2024.
 > 
