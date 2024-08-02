@@ -5,7 +5,7 @@ layout: default
 # Tu-tu Turing
 Turing (cat version) is a black and white cat, specilizes at all the kinds of ball games. His research interests are anthropology and sociology, the main research activity is observing human-beings from a high place.  
 
-:e-mail: tu-tu [at] cat-lives-matter [dot] com
+:e-mail: tu-tu [at] cat-rules-the-world [dot] com
 
 
 ### News
@@ -23,7 +23,7 @@ Turing (cat version) is a black and white cat, specilizes at all the kinds of ba
 Pythagoras (cat version) is a Chinese Li Hua cat, specilizes at recreating beautiful textures on fabric furnitures. His research interest is animal relations, i.e., how to protect one's own food from Turing. Also, he is obsessed with [_BBC Blue Planet_](https://www.bbcearth.com/shows/blue-planet).
 
 
-:e-mail: pi-pi [at] cat-lives-matter [dot] com
+:e-mail: pi-pi [at] cat-rules-the-world [dot] com
 
 ### News
 > :birthday: 20, June, 2022: happy 1-year birthday, pi-pi!
