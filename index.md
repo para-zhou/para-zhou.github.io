@@ -54,12 +54,12 @@ md-list.make-scrollable {
 ### :warning: AI Ethics and Dialogue Safety
 
 * [Purple-teaming LLMs with Adversarial Defender Training](https://www.arxiv.org/abs/2407.01850) ![](https://img.shields.io/badge/arxiv-red)
-
- **Jingyan Zhou**, Kun Li, Junan Li, Jiawen Kang, Minda Hu, Xixin Wu, Helen Meng 
+  
+  **Jingyan Zhou**, Kun Li, Junan Li, Jiawen Kang, Minda Hu, Xixin Wu, Helen Meng 
 
 * [*Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/abs/2402.09267) ![](https://img.shields.io/badge/ACL_2024-blue) 
-
- Xiaoying Zhang, Baolin Peng, Ye Tian,  **Jingyan Zhou**, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng 
+  
+  Xiaoying Zhang, Baolin Peng, Ye Tian,  **Jingyan Zhou**, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng 
 
 * [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) ![](https://img.shields.io/badge/NAACL_2024_Findings-blue) 
 
