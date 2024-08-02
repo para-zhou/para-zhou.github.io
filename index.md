@@ -29,7 +29,7 @@ md-list.make-scrollable {
     overflow-y: scroll;
 }
 </style>
-<div>
+
 > 
 > :thought_balloon: Mar 2024: Our work on **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) accepted by NAACL 2024.
 > 
@@ -41,7 +41,7 @@ md-list.make-scrollable {
 > 
 > :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011).
 >
-</div>
+
 <!---
 > :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu, and other nice colleagues in HCCL!
 >
