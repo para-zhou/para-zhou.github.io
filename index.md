@@ -125,4 +125,3 @@ md-list.make-scrollable {
 > Every term 2 during 2019-2023: teaching assistant in _ENGG1130: **Multi-variable Calculus**_
 > 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=f7Wm_8KqJaxik7F-HeujF1Xbfmx-QANW3cM7MqOuuMQ"></script>
