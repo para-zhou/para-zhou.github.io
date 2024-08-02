@@ -49,9 +49,18 @@ md-list.make-scrollable {
 
 
 
-## :book: Publications
+## :book: Selected Publications
 
 ### :warning: AI Ethics and Dialogue Safety
+
+* [Purple-teaming LLMs with Adversarial Defender Training](https://www.arxiv.org/abs/2407.01850) ![](https://img.shields.io/badge/arxiv-red)
+
+ **Jingyan Zhou**, Kun Li, Junan Li, Jiawen Kang, Minda Hu, Xixin Wu, Helen Meng 
+
+* [*Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/abs/2402.09267) ![](https://img.shields.io/badge/ACL_2024-blue) 
+
+ Xiaoying Zhang, Baolin Peng, Ye Tian,  **Jingyan Zhou**, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng 
+
 * [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) ![](https://img.shields.io/badge/NAACL_2024_Findings-blue) 
 
   **Jingyan Zhou**, Minda Hu, Junan Li, Xiaoying Zhang, Xixin Wu, Irwin King, Helen Meng 
@@ -99,9 +108,16 @@ md-list.make-scrollable {
   Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, **Jingyan Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou
 
 
-## :book: Teaching & Talk
-> 2024, Feb: give Talk in City University of Hong Kong of **Generative AI, the Future of Work, and Talent Cultivation**
-
+## :book: Teaching & Talk & Community Service
+> 2024, Mar.: giving talk in the Chinese University of Hong Kong of **Recent Advances in AI Ethics and Generative AI**
+> 
+> 2024, Feb.: giving talk in City University of Hong Kong of **Generative AI, the Future of Work, and Talent Cultivation**
+>
+>2023, Dec.: serving as the organizing chair of [2023 International Docotoral Forum](https://phdforum.se.cuhk.edu.hk/)
+>
 > 2022-2023, Term 1: co-teaching _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
 >
+> 2022, Sept.: orgainzing the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
+>
 > Every term 2 during 2019-2023: teaching assistant in _ENGG1130: **Multi-variable Calculus**_
+> 
