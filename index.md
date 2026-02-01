@@ -30,7 +30,7 @@ md-list.make-scrollable {
 }
 </style>
 
-> 
+> :earth_asia: Dec 2025: Hornored to coodinate the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
 > :thought_balloon: Mar 2024: Our work on **machine ethics**: [Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?](https://arxiv.org/abs/2308.15399) accepted by NAACL 2024.
 > 
 > :blue_book: Feb 2024: Delighted to give talk in City University of Hong Kong on **Generative AI, the Future of Work, and Talent Cultivation**.
@@ -112,6 +112,10 @@ md-list.make-scrollable {
 
 
 ## :book: Teaching & Talk & Community Service
+> 2025, Dec.: coodinating the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
+> 
+> 2025, Nov.: giving talk in the Chinese University of Hong Kong of **Data Bias in NLP**
+> 
 > 2024, Mar.: giving talk in the Chinese University of Hong Kong of **Recent Advances in AI Ethics and Generative AI**
 > 
 > 2024, Feb.: giving talk in City University of Hong Kong of **Generative AI, the Future of Work, and Talent Cultivation**
