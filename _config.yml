@@ -30,4 +30,18 @@ sidebar:
 # When running locally, we run into the following error —
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
+
+
+nav:
+  - name: Experience
+    link: "#experience"
+  - name: Awards
+    link: "#awards"
+  - name: News
+    link: "#news"
+  - name: Publications
+    link: "#publications"
+  - name: Service
+    link: "#service"
+    
 github: [metadata]

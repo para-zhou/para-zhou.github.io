@@ -16,3 +16,31 @@
       {%- endfor %}
     </ul>
   </div>
+
+  <ul class="sidebar-nav">
+  <!-- External links (Google Scholar, GitHub, etc.) -->
+  {% for entry in site.sidebar %}
+    <li>
+      <a href="{{ entry.link }}">
+        {{ entry.icon }}
+        {{ entry.name }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- In-page navigation -->
+{% if site.nav %}
+<hr style="border:none; border-top:1px solid var(--border-color, #ddd); margin:0.8em 0;">
+<nav class="sidebar-nav">
+  <ul style="list-style:none; padding:0; margin:0;">
+    {% for item in site.nav %}
+      <li style="margin: 0.35em 0;">
+        <a href="{{ item.link }}" style="text-decoration:none; font-size:0.85em;">
+          {{ item.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
