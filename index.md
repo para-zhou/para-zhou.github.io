@@ -4,7 +4,7 @@ layout: default
 
 
 I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
-in The Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) Since August 2019. 
+in The Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) since August 2019. 
 My research focuses on **AI Ethics**, particularly the development of Ethical Large Language Models.
 
 My current work aims to investigate the lifecycle of LLM development - from data curation to model deployment - through a normative lens, to identify ethical issues embedded in existing practices and address them, making LLMs better aligned with human values.
