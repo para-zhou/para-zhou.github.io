@@ -17,6 +17,8 @@ I was an intern in the Speech and Language Processing group at [Huawei Noah's Ar
 Prior to this, I was an intern in the NLP group at [JingDong AI Research Institute](http://air.jd.com/) working on task-oriented dialogue systems.
 
 ## :bar_chart: Research Impact {#impact}
+> Based on our work on machine ethics ([Zhou et al., NAACL2024](https://arxiv.org/abs/2308.15399)) and Purple-teaming LLMs ([Zhou et al., NAACL2024](https://www.arxiv.org/abs/2407.01850)), I was invited as a contributing interviewee for the [MoralPLAI](https://www.ieai.sot.tum.de/research/moralplai/) project (Institute for Ethics in AI, Technical University of Munich). Our perspectives on AI ethics were incorporated into a research-based play developed collaboratively with other researchers.
+> 
 >  The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [CLEVA](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and offensiveness in Chinese language models. The released datasets and models have about 400 monthly downloads on Hugging Face.
 > 
 >  Based on the **CDial-Bias** work, we were invited to organize **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)].
