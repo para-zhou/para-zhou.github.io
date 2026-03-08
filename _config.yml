@@ -19,9 +19,6 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/para-zhou
-  - name: living with my cats
-    icon: <i class="fa-solid hand-peace"></i><i class="fa-solid fa-cat"></i>
-    link: /cat
   - name: Mainpage
     icon: <i class="fa-solid fa-pen"></i>
     link: /index
