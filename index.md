@@ -4,7 +4,7 @@ layout: default
 
 
 I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
-in the Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/), starting from Aug, 2019. 
+in The Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) Since August 2019. 
 My research focuses on **AI Ethics**, particularly the development of Ethical Large Language Models.
 
 My current work aims to investigate the lifecycle of LLM development - from data curation to model deployment - through a normative lens, to identify ethical issues embedded in existing practices and address them, making LLMs better aligned with human values.
@@ -42,15 +42,15 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
 ## :book: Teaching & Talk & Community Service {#service}
 > 2025, Dec.: Coordinated the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
 > 
-> 2025, Nov.: Gave a talk: **Data Bias in NLP** at the Chinese University of Hong Kong 
+> 2025, Nov.: Invited talk titled: ''**Data Bias in NLP**'' at The Chinese University of Hong Kong 
 > 
-> 2024, Mar.: Gave a talk: **Recent Advances in AI Ethics and Generative AI** at the Chinese University of Hong Kong
+> 2024, Mar.: Invited talk titled: '' **Recent Advances in AI Ethics and Generative AI**'' at the Chinese University of Hong Kong
 > 
-> 2024, Feb.: Gave a talk: **Generative AI, the Future of Work, and Talent Cultivation** at City University of Hong Kong
+> 2024, Feb.: Invited talk titled: '' **Generative AI, the Future of Work, and Talent Cultivation**'' at City University of Hong Kong
 >
->2023, Dec.: Served as the student organizing chair of [2023 International Doctoral Forum](https://phdforum.se.cuhk.edu.hk/)
+>2023, Dec.: Student Organizing Chair, [2023 International Doctoral Forum](https://phdforum.se.cuhk.edu.hk/)
 >
-> 2022-2023, Term 1: Co-teached _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
+> 2022-2023, Term 1: Guest Lecture in _SEEM5630: **Conversational AI systems**_ 
 >
 > 2022, Sept.: Organized the NLPCC 2022 **shared task 7** [Fine-Grained Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
 >
