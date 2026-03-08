@@ -3,19 +3,36 @@ layout: default
 ---
 
 
-
 I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
 in the Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/), started from Aug, 2019. 
+My research focuces on **AI Ethics**, particularly the development of Ethical Large Language Models.
+My current work aims to study the lifecycle of LLM development - from  data curation to deployment - to identify ethical issues embedded in existing practices and address them, making better LLMs align with human values.
+My published work tackles these challenges through biased data identification, adversarial training, and structured inference-time reasoning, seeking to bridge the gap between abstract ethical principles and aligned, reliable model behavior.
+More broadly, I am interested in moving beyond reactive patches toward proactive, normatively sound approaches to ethical AI.
+
+
+## :microscope: Work Experience
+
 I was an intern in the Speech and Language Processing group in [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), supervised by Dr. [Fei Mi](https://mifei.github.io/) and Dr. [Yitong Li](https://lrank.github.io/), collaborating with [COAI group](http://coai.cs.tsinghua.edu.cn/) from Tsinghua University on **safety issues in dialogue systems**.
 Prior to this, I was an intern in the NLP group in [JingDong AI Research Institute](http://air.jd.com/) working on task-oriented dialogue systems.
 
-## :microscope: Research Interest
+## :bar_chart: Research Impact
 
-My research mainly focuses on buidling reliable dialogue systems in terms of safety concerns (biased and offensive languages, moral considerations, etc.) and knowledge grounding.
-I am also interested in general ethical issues in NLP applications, e.g., fairness of large language models.
-You are more than welcome to :envelope: me for research discussions!
+> - The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [**CLEVA**](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and safety in Chinese language models, and have ~400 monthly download on huggingface.
+> - Organized **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
+> - The **JDDC Corpus** ([Chen et al., LREC 2020](https://aclanthology.org/2020.lrec-1.58/)), a large-scale multi-turn Chinese dialogue dataset constructed during my internship at JingDong, has been widely used in dialogue systems research.
 
 
+## :trophy: Honors & Awards
+
+> - **Hong Kong ICT Awards — Student Innovation Award**, HKITDA, 2019 — Shortlisted, Certificate of Excellence
+> - **Top 10 in JD Dialogue Challenge**, JD.com, 2018 — Technological Innovation Award
+
+> - **New Asia College Head's List (Merit)**, CUHK, 2019 — Top 10% in Department of Information Engineering
+> - **Dean's List, Faculty of Engineering**, CUHK, 2018 & 2019 — Top 10% in Faculty of Engineering
+> - **Chiu Fuksan Scholarship**, CUHK, 2019 — Academic Achievement Scholarship
+> - **Mr. and Mrs. Chan Foo Chuen Scholarships**, CUHK, 2018 — New Asia College Academic Achievement Scholarship
+<!--
 ## :santa: News
 
 <style>
@@ -43,7 +60,7 @@ md-list.make-scrollable {
 > :confetti_ball: Oct 2022: Two papers accepted by _**EMNLP 2022**_, [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025) and [Towards Identifying Social Bias in Dialogue Systems](http://arxiv.org/abs/2202.08011).
 >
 
-<!---
+
 > :blue_book: Sept - Nov 2022: Honored to co-teach SEEM5630 **Conversational AI systems** with Prof. Meng, Prof. Wu, and other nice colleagues in HCCL!
 >
 > :dart: June 2022: We orgainzed the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31).
@@ -55,7 +72,7 @@ md-list.make-scrollable {
 
 ## :book: Selected Publications
 
-### :warning: AI Ethics and Dialogue Safety
+### :warning: AI Ethics
 
 * [Purple-teaming LLMs with Adversarial Defender Training](https://www.arxiv.org/abs/2407.01850) ![](https://img.shields.io/badge/arxiv-red)
   
