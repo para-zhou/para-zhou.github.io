@@ -7,7 +7,7 @@ I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se
 in the Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/), starting from Aug, 2019. 
 My research focuses on **AI Ethics**, particularly the development of Ethical Large Language Models.
 
-My current work aims to investigate the lifecycle of LLM development - from  data curation to model deployment - through a normative lens, to identify ethical issues embedded in existing practices and address them, making LLMs better aligned with human values.
+My current work aims to investigate the lifecycle of LLM development - from data curation to model deployment - through a normative lens, to identify ethical issues embedded in existing practices and address them, making LLMs better aligned with human values.
 My published work tackles these challenges through biased data identification, adversarial training, and structured inference-time reasoning, seeking to bridge the gap between abstract ethical principles and aligned, reliable model behavior.
 More broadly, I am interested in moving beyond reactive patches toward proactive, normatively sound approaches to ethical AI.
 
@@ -90,13 +90,13 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
   Fei Mi, Yitong Li, Yulong Zeng, **Jingyan Zhou**, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
   [[Blog](https://mp.weixin.qq.com/s/VALSLd3ITz97SurJ9IJawg)]
 
-* [Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)![](https://img.shields.io/badge/NLPCC_2022-blue) 
+* [Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31) ![](https://img.shields.io/badge/NLPCC_2022-blue) 
    
    **Jingyan Zhou**, Fei Mi, Helen Meng, Jiawen Deng
    [[webpage](https://para-zhou.github.io/CDial-Bias/)]
 
 ### :dart: Task-oriented Dialogue Systems:
-* [SGP-TOD: Building task bots effortlessly via schema-guided llm prompting](https://aclanthology.org/2023.findings-emnlp.891/)![](https://img.shields.io/badge/EMNLP_2023_Findings-blue) 
+* [SGP-TOD: Building task bots effortlessly via schema-guided llm prompting](https://aclanthology.org/2023.findings-emnlp.891/) ![](https://img.shields.io/badge/EMNLP_2023_Findings-blue) 
 
   Xiaoying Zhang, Baolin Peng, Kun Li, **Jingyan Zhou**, Helen Meng 
 
@@ -105,7 +105,7 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
   (All equal contribution) Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, Lun Yiu Nie, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, **Jingyan Zhou**, Hong Cheng, Wai Lam, Helen Meng
   [[code](https://github.com/muditchaudhary/CUHK-DSTC9)]
 
-* [Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model](https://ieeexplore.ieee.org/abstract/document/9362051)![](https://img.shields.io/badge/ISCSLP_2021-blue) 
+* [Automatic Extraction of Semantic Patterns in Dialogs using Convex Polytopic Model](https://ieeexplore.ieee.org/abstract/document/9362051) ![](https://img.shields.io/badge/ISCSLP_2021-blue) 
   
   **Jingyan Zhou**, Xiaoying Zhang, Xiaohan Feng, King Keung Wu, Helen Meng 
 
