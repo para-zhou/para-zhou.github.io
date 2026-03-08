@@ -18,18 +18,24 @@ Prior to this, I was an intern in the NLP group in [JingDong AI Research Institu
 
 ## :bar_chart: Research Impact {#impact}
 >  The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [**CLEVA**](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and safety in Chinese language models. The released datasets and model have ~400 monthly download on huggingface.
+> 
 >  Organized **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
+> 
 >  The **JDDC Corpus** ([Chen et al., LREC 2020](https://aclanthology.org/2020.lrec-1.58/)), a large-scale multi-turn Chinese dialogue dataset constructed during my internship at JingDong, has been widely used in dialogue systems research.
 
 
 ## :trophy: Honors & Awards {#awards}
 
 >  **Hong Kong ICT Awards — Student Innovation Award**, HKITDA, 2019 — Shortlisted, Certificate of Excellence
+> 
 >  **JD Dialogue Challenge Technological Innovation Award**, JD.com, 2018 — Top 10 among >600 partifipants
-
+>
 >  **New Asia College Head's List (Merit)**, CUHK, 2019 — Top 10% in Department of Information Engineering
+> 
 >  **Dean's List, Faculty of Engineering**, CUHK, 2018 & 2019 — Top 10% in Faculty of Engineering
+> 
 >  **Chiu Fuksan Scholarship**, CUHK, 2019 — Academic Achievement Scholarship
+> 
 >  **Mr. and Mrs. Chan Foo Chuen Scholarships**, CUHK, 2018 — New Asia College Academic Achievement Scholarship
 
 
