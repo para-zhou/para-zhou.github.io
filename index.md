@@ -17,7 +17,7 @@ I was an intern in the Speech and Language Processing group in [Huawei Noah's Ar
 Prior to this, I was an intern in the NLP group at [JingDong AI Research Institute](http://air.jd.com/) working on task-oriented dialogue systems.
 
 ## :bar_chart: Research Impact {#impact}
->  The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [CLEVA](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and offensiveness in Chinese language models. The released datasets and model have ~400 monthly downloads on Hugging Face.
+>  The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [CLEVA](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and offensiveness in Chinese language models. The released datasets and models have ~400 monthly downloads on Hugging Face.
 > 
 >  Organized **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
 > 
