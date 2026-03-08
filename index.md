@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I am a Ph.D. student in [Human-Computer-Communication Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
+I am a Ph.D. student in [Human-Computer Communications Laboratory](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory)
 in The Chinese University of Hong Kong, supervised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) since August 2019. 
 My research focuses on **AI Ethics**, particularly the development of Ethical Large Language Models.
 
