@@ -37,11 +37,12 @@ nav:
     link: "#experience"
   - name: Awards
     link: "#awards"
-  - name: News
-    link: "#news"
-  - name: Publications
-    link: "#publications"
+  - name: Impact
+    link: "#impact"
   - name: Service
     link: "#service"
-    
+  - name: Publications
+    link: "#publications"
+
+
 github: [metadata]

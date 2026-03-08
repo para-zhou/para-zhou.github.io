@@ -11,19 +11,21 @@ My published work tackles these challenges through biased data identification, a
 More broadly, I am interested in moving beyond reactive patches toward proactive, normatively sound approaches to ethical AI.
 
 
-## :microscope: Work Experience
+## :microscope: Work Experience {#experience}
+
 
 I was an intern in the Speech and Language Processing group in [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), supervised by Dr. [Fei Mi](https://mifei.github.io/) and Dr. [Yitong Li](https://lrank.github.io/), collaborating with [COAI group](http://coai.cs.tsinghua.edu.cn/) from Tsinghua University on **safety issues in dialogue systems**.
 Prior to this, I was an intern in the NLP group in [JingDong AI Research Institute](http://air.jd.com/) working on task-oriented dialogue systems.
 
-## :bar_chart: Research Impact
+## :bar_chart: Research Impact {#impact}
+
 
 > - The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [**CLEVA**](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and safety in Chinese language models, and have ~400 monthly download on huggingface.
 > - Organized **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
 > - The **JDDC Corpus** ([Chen et al., LREC 2020](https://aclanthology.org/2020.lrec-1.58/)), a large-scale multi-turn Chinese dialogue dataset constructed during my internship at JingDong, has been widely used in dialogue systems research.
 
 
-## :trophy: Honors & Awards
+## :trophy: Honors & Awards {#awards}
 
 > - **Hong Kong ICT Awards — Student Innovation Award**, HKITDA, 2019 — Shortlisted, Certificate of Excellence
 > - **JD Dialogue Challenge Technological Innovation Award**, JD.com, 2018 — Top 10 among >600 partifipants
@@ -34,7 +36,7 @@ Prior to this, I was an intern in the NLP group in [JingDong AI Research Institu
 > - **Mr. and Mrs. Chan Foo Chuen Scholarships**, CUHK, 2018 — New Asia College Academic Achievement Scholarship
 
 
-## :book: Teaching & Talk & Community Service
+## :book: Teaching & Talk & Community Service {#service}
 > 2025, Dec.: coodinating the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
 > 
 > 2025, Nov.: giving talk in the Chinese University of Hong Kong of **Data Bias in NLP**
@@ -54,7 +56,7 @@ Prior to this, I was an intern in the NLP group in [JingDong AI Research Institu
 
 
 
-## :book: Selected Publications
+## :book: Selected Publications {#publications}
 
 ### :warning: AI Ethics
 

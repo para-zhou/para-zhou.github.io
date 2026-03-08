@@ -30,9 +30,10 @@
 </ul>
 
 <!-- In-page navigation -->
+<!-- In-page navigation only (external links already rendered by layout) -->
 {% if site.nav %}
 <hr style="border:none; border-top:1px solid var(--border-color, #ddd); margin:0.8em 0;">
-<nav class="sidebar-nav">
+<nav>
   <ul style="list-style:none; padding:0; margin:0;">
     {% for item in site.nav %}
       <li style="margin: 0.35em 0;">
