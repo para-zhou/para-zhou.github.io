@@ -19,7 +19,7 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
 ## :bar_chart: Research Impact {#impact}
 >  The **CDial-Bias** dataset ([Zhou & Deng et al., EMNLP 2022](https://arxiv.org/abs/2202.08011)) and **COLD** benchmark ([Deng & Zhou et al., EMNLP 2022](https://arxiv.org/abs/2201.06025)) have been adopted by [CLEVA](https://arxiv.org/abs/2308.04813) (Chinese Language Models EVAluation Platform) as standard evaluation tasks for assessing social bias and offensiveness in Chinese language models. The released datasets and model have ~400 monthly downloads on Hugging Face.
 > 
->  Organized **NLPCC 2022 Shared Task 7**: Fine-Grain Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
+>  Organized **NLPCC 2022 Shared Task 7**: Fine-Grained Dialogue Social Bias Measurement, with multiple participating teams. [[overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)]
 > 
 >  The **JDDC Corpus** ([Chen et al., LREC 2020](https://aclanthology.org/2020.lrec-1.58/)), a large-scale multi-turn Chinese dialogue dataset constructed during my internship at JingDong, has been widely used in dialogue systems research.
 
@@ -40,21 +40,21 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
 
 
 ## :book: Teaching & Talk & Community Service {#service}
-> 2025, Dec.: coordinating the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
+> 2025, Dec.: Coordinated the __Young Scholar Poster Session__ of the [Responsible AI in Action Workshop](https://www.se.cuhk.edu.hk/raia).
 > 
-> 2025, Nov.: giving talk: **Data Bias in NLP** in the Chinese University of Hong Kong 
+> 2025, Nov.: Gave a talk: **Data Bias in NLP** at the Chinese University of Hong Kong 
 > 
-> 2024, Mar.: giving talk: **Recent Advances in AI Ethics and Generative AI** in the Chinese University of Hong Kong
+> 2024, Mar.: Gave a talk: **Recent Advances in AI Ethics and Generative AI** at the Chinese University of Hong Kong
 > 
-> 2024, Feb.: giving talk: **Generative AI, the Future of Work, and Talent Cultivation** in City University of Hong Kong
+> 2024, Feb.: Gave a talk: **Generative AI, the Future of Work, and Talent Cultivation** at City University of Hong Kong
 >
->2023, Dec.: serving as the organizing chair of [2023 International Doctoral Forum](https://phdforum.se.cuhk.edu.hk/)
+>2023, Dec.: Served as the student organizing chair of [2023 International Doctoral Forum](https://phdforum.se.cuhk.edu.hk/)
 >
-> 2022-2023, Term 1: co-teaching _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
+> 2022-2023, Term 1: Co-teached _SEEM5630: **Conversational AI systems**_ with Prof. Meng, Prof. Wu and other nice colleagues in HCCL
 >
-> 2022, Sept.: organizing the NLPCC 2022 **shared task 7** [Fine-Grain Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
+> 2022, Sept.: Organized the NLPCC 2022 **shared task 7** [Fine-Grained Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
 >
-> Every term 2 during 2019-2023: teaching assistant in _ENGG1130: **Multi-variable Calculus**_
+> Every term 2 during 2019-2023: Served as teaching assistant in _ENGG1130: **Multi-variable Calculus**_
 > 
 
 
@@ -85,7 +85,7 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
   Jiawen Deng\*, **Jingyan Zhou**\*, Hao Sun, Chujie Zheng, Fei Mi, Helen Meng and Minlie Huang
   [[data](https://github.com/thu-coai/COLDataset)]
 
-* [**PanGu-BOT**: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090) ![](https://img.shields.io/badge/arxiv-red) 
+* [**PanGu-Bot**: Efficient Generative Dialogue Pre-training from Pre-trained Language Model](https://arxiv.org/abs/2203.17090) ![](https://img.shields.io/badge/arxiv-red) 
 
   Fei Mi, Yitong Li, Yulong Zeng, **Jingyan Zhou**, Yasheng Wang, Chuanfei Xu, Lifeng Shang, Xin Jiang, Shiqi Zhao, Qun Liu
   [[Blog](https://mp.weixin.qq.com/s/VALSLd3ITz97SurJ9IJawg)]
@@ -96,7 +96,7 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
    [[webpage](https://para-zhou.github.io/CDial-Bias/)]
 
 ### :dart: Task-oriented Dialogue Systems:
-* [Sgp-tod: Building task bots effortlessly via schema-guided llm prompting](https://aclanthology.org/2023.findings-emnlp.891/)![](https://img.shields.io/badge/EMNLP_2023_Findings-blue) 
+* [SGP-TOD: Building task bots effortlessly via schema-guided llm prompting](https://aclanthology.org/2023.findings-emnlp.891/)![](https://img.shields.io/badge/EMNLP_2023_Findings-blue) 
 
   Xiaoying Zhang, Baolin Peng, Kun Li, **Jingyan Zhou**, Helen Meng 
 
