@@ -44,15 +44,15 @@ Prior to this, I was an intern in the NLP group at [JingDong AI Research Institu
 > 
 > 2025, Nov.: Invited talk titled: ''**Data Bias in NLP**'' at The Chinese University of Hong Kong 
 > 
-> 2024, Mar.: Invited talk titled: '' **Recent Advances in AI Ethics and Generative AI**'' at the Chinese University of Hong Kong
+> 2024, Mar.: Invited talk titled: ''**Recent Advances in AI Ethics and Generative AI**'' at The Chinese University of Hong Kong
 > 
-> 2024, Feb.: Invited talk titled: '' **Generative AI, the Future of Work, and Talent Cultivation**'' at City University of Hong Kong
+> 2024, Feb.: Invited talk titled: ''**Generative AI, the Future of Work, and Talent Cultivation**'' at City University of Hong Kong
 >
 >2023, Dec.: Student Organizing Chair, [2023 International Doctoral Forum](https://phdforum.se.cuhk.edu.hk/)
 >
 > 2022-2023, Term 1: Guest Lecture in _SEEM5630: **Conversational AI systems**_ 
 >
-> 2022, Sept.: Organized the NLPCC 2022 **shared task 7** [Fine-Grained Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/); [overview](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_31)
+> 2022, Sept.: Organized the NLPCC 2022 **shared task 7** [Fine-Grained Dialogue Social Bias Measurement](https://para-zhou.github.io/CDial-Bias/)
 >
 > Every term 2 during 2019-2023: Served as teaching assistant in _ENGG1130: **Multi-variable Calculus**_
 > 
